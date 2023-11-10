@@ -1,0 +1,133 @@
+{
+  "configVersion": 1,
+  "timestamp": 1699650844760,
+  "index": "/app/formula1-beta/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/app/formula1-beta/favicon.ico",
+        "/app/formula1-beta/index.html",
+        "/app/formula1-beta/main.47f32fe7a486e344.js",
+        "/app/formula1-beta/manifest.webmanifest",
+        "/app/formula1-beta/polyfills.b018a2d80bcb0df3.js",
+        "/app/formula1-beta/runtime.4d9362558ab2302a.js",
+        "/app/formula1-beta/styles.31408445b5f6e107.css"
+      ],
+      "patterns": [
+        "https:\\/\\/fonts\\.googleapis\\.com\\/icon\\?family=Material\\+Icons",
+        "https:\\/\\/fonts\\.googleapis\\.com\\/css2"
+      ]
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "/app/formula1-beta/assets/icons.bak/icon-128x128.png",
+        "/app/formula1-beta/assets/icons.bak/icon-144x144.png",
+        "/app/formula1-beta/assets/icons.bak/icon-152x152.png",
+        "/app/formula1-beta/assets/icons.bak/icon-192x192.png",
+        "/app/formula1-beta/assets/icons.bak/icon-384x384.png",
+        "/app/formula1-beta/assets/icons.bak/icon-512x512.png",
+        "/app/formula1-beta/assets/icons.bak/icon-72x72.png",
+        "/app/formula1-beta/assets/icons.bak/icon-96x96.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-128x128.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-144x144.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-152x152.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-192x192.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-384x384.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-512x512.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-72x72.png",
+        "/app/formula1-beta/assets/icons.bak2/icon-96x96.png",
+        "/app/formula1-beta/assets/icons/icon-128x128.png",
+        "/app/formula1-beta/assets/icons/icon-144x144.png",
+        "/app/formula1-beta/assets/icons/icon-152x152.png",
+        "/app/formula1-beta/assets/icons/icon-192x192.png",
+        "/app/formula1-beta/assets/icons/icon-384x384.png",
+        "/app/formula1-beta/assets/icons/icon-512x512.png",
+        "/app/formula1-beta/assets/icons/icon-72x72.png",
+        "/app/formula1-beta/assets/icons/icon-96x96.png",
+        "/app/formula1-beta/assets/images/F1Home.jpg",
+        "/app/formula1-beta/assets/images/formula-1-logo.png"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "Formula1API",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [],
+      "patterns": [
+        "http:\\/\\/http:\\/\\/ergast\\.com\\/api\\/.*",
+        "https:\\/\\/en\\.wikipedia\\.org\\/w\\/api\\.php\\/.*"
+      ]
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/app/formula1-beta/assets/icons.bak/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/app/formula1-beta/assets/icons.bak/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/app/formula1-beta/assets/icons.bak/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/app/formula1-beta/assets/icons.bak/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/app/formula1-beta/assets/icons.bak/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/app/formula1-beta/assets/icons.bak/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/app/formula1-beta/assets/icons.bak/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/app/formula1-beta/assets/icons.bak/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/app/formula1-beta/assets/icons.bak2/icon-128x128.png": "765ac92e0d4cd8ac0d3d923b402d67ac3b52bc4e",
+    "/app/formula1-beta/assets/icons.bak2/icon-144x144.png": "b5cf75b87d82c4657311327064e3aaae5d156943",
+    "/app/formula1-beta/assets/icons.bak2/icon-152x152.png": "7aaaa3aaec2d551e056cd1160fe77a71fdd666b0",
+    "/app/formula1-beta/assets/icons.bak2/icon-192x192.png": "4a9c7cd71253f3bcf9a8161e9b31263295b2088f",
+    "/app/formula1-beta/assets/icons.bak2/icon-384x384.png": "d88f77c2bb3083d0522308e1587dc8d8ed1ecf09",
+    "/app/formula1-beta/assets/icons.bak2/icon-512x512.png": "57b1c755a9541529ed4be0b8858d8365383e9e70",
+    "/app/formula1-beta/assets/icons.bak2/icon-72x72.png": "b5afacffb4e97c83ec81fd290f69fc175af5d978",
+    "/app/formula1-beta/assets/icons.bak2/icon-96x96.png": "aa3bef8e3b8889eba8d4532396e1e3733d475347",
+    "/app/formula1-beta/assets/icons/icon-128x128.png": "db70279cd2602eb46d26bb94f3a2b2d16e1d3c2f",
+    "/app/formula1-beta/assets/icons/icon-144x144.png": "56502059e98b2b5a00f51c074b55e63c15962c6f",
+    "/app/formula1-beta/assets/icons/icon-152x152.png": "e54ed3b7b057d00ea24dd3ce2f1d0aa9060a4712",
+    "/app/formula1-beta/assets/icons/icon-192x192.png": "1032676b5dd5e39ab394eb8afdc45f477f301651",
+    "/app/formula1-beta/assets/icons/icon-384x384.png": "938dc6bbe970cdf99fe36aa8629f37224a4299b8",
+    "/app/formula1-beta/assets/icons/icon-512x512.png": "9d7e8c1fa5856f857ef401d48db09117ba769604",
+    "/app/formula1-beta/assets/icons/icon-72x72.png": "ed14f0f2279449f542c67d31eb1f385567eec674",
+    "/app/formula1-beta/assets/icons/icon-96x96.png": "f9cf0bab482805e88a1ec7de64b092a830b8ed91",
+    "/app/formula1-beta/assets/images/F1Home.jpg": "66e7a476855a8b21aa66cb9e97a71efd0fa8dc0f",
+    "/app/formula1-beta/assets/images/formula-1-logo.png": "28c5779d6410886e1a0da0db37c7b3a2ffd38c4e",
+    "/app/formula1-beta/favicon.ico": "60d927419050ab556d520158ea65632e4168a35c",
+    "/app/formula1-beta/index.html": "b9e6b3ad440d7257a4ec42afb82152dd9bedff21",
+    "/app/formula1-beta/main.47f32fe7a486e344.js": "c01b75e61905e4ae7f0445d6ad8f862ca0efc44b",
+    "/app/formula1-beta/manifest.webmanifest": "c179a9f3c024144413dfa7d766c356ffd7e3e200",
+    "/app/formula1-beta/polyfills.b018a2d80bcb0df3.js": "8e6fbfd11698c469a7efbeace6f42f45467d6fc3",
+    "/app/formula1-beta/runtime.4d9362558ab2302a.js": "5c0b60ef9d40f125cf82fda78c47b05c6970ff28",
+    "/app/formula1-beta/styles.31408445b5f6e107.css": "c80c6575047f8a97f6cee99f6be5cb4666c0ca7d"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
