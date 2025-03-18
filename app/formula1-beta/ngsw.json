@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1742241987618,
+  "timestamp": 1742328298881,
   "index": "/app/formula1-beta/index.html",
   "assetGroups": [
     {
@@ -13,7 +13,7 @@
       "urls": [
         "/app/formula1-beta/favicon.ico",
         "/app/formula1-beta/index.html",
-        "/app/formula1-beta/main.5d751f1816b509dd.js",
+        "/app/formula1-beta/main.6112c53659dd7d1c.js",
         "/app/formula1-beta/manifest.webmanifest",
         "/app/formula1-beta/polyfills.b018a2d80bcb0df3.js",
         "/app/formula1-beta/runtime.4d9362558ab2302a.js",
@@ -71,6 +71,7 @@
       "urls": [],
       "patterns": [
         "http:\\/\\/http:\\/\\/ergast\\.com\\/api\\/.*",
+        "https:\\/\\/api\\.jolpi\\.ca\\/ergast\\/f1\\/.*",
         "https:\\/\\/en\\.wikipedia\\.org\\/w\\/api\\.php\\/.*"
       ]
     }
@@ -104,8 +105,8 @@
     "/app/formula1-beta/assets/images/F1Home.jpg": "66e7a476855a8b21aa66cb9e97a71efd0fa8dc0f",
     "/app/formula1-beta/assets/images/formula-1-logo.png": "28c5779d6410886e1a0da0db37c7b3a2ffd38c4e",
     "/app/formula1-beta/favicon.ico": "60d927419050ab556d520158ea65632e4168a35c",
-    "/app/formula1-beta/index.html": "4248699d4f28b4489c9daef9e67de56628266089",
-    "/app/formula1-beta/main.5d751f1816b509dd.js": "0daa02836d49c12074363c68b4bcb53a5283d48d",
+    "/app/formula1-beta/index.html": "63c11584501ecb1cceda5c388af71baf3dd20852",
+    "/app/formula1-beta/main.6112c53659dd7d1c.js": "0519a23aed52054a10b39957408ad52534755c86",
     "/app/formula1-beta/manifest.webmanifest": "c179a9f3c024144413dfa7d766c356ffd7e3e200",
     "/app/formula1-beta/polyfills.b018a2d80bcb0df3.js": "8e6fbfd11698c469a7efbeace6f42f45467d6fc3",
     "/app/formula1-beta/runtime.4d9362558ab2302a.js": "5c0b60ef9d40f125cf82fda78c47b05c6970ff28",
